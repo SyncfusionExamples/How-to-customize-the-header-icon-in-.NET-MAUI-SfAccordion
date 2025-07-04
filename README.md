@@ -39,15 +39,7 @@ The [SfAccordion](https://help.syncfusion.com/maui/accordion/getting-started) co
     </syncfusion:SfAccordion>
 </ContentPage.Content>
  ```
- ![HeaderIconPosition](image.png)
 
- Download the complete sample from [GitHub](https://github.com/SyncfusionExamples/How-to-customize-the-Accordion-icon-color-in-.NET-MAUI-SfAccordion/tree/IconColor)
+<img src="image.png" width="400">
 
-
-
-**Conclusion**
-
-I hope you enjoyed learning how to customize the Header icon in .NET MAUI Accordion.
-You can refer to our [.NET MAUI Accordion](https://www.syncfusion.com/maui-controls/maui-accordion) feature tour page to know about its other groundbreaking feature representations and documentation, and how to quickly get started with configuration specifications.
-For current customers, check out our components from the [License and Downloads](https://support.syncfusion.com/create) page. If you are new to Syncfusion®, try our 30-day [free trial](https://www.syncfusion.com/downloads/maui/confirm) to check out our other controls.
-Please let us know in the comments section if you have any queries or require clarification. You can also contact us through our support [forums](https://www.syncfusion.com/forums/), [Direct-Trac](https://support.syncfusion.com/create), or [feedback portal](https://www.syncfusion.com/feedback/maui?control=sfaccordion). We are always happy to assist you!
+ Download the complete sample from [GitHub](https://github.com/SyncfusionExamples/How-to-customize-the-header-icon-in-.NET-MAUI-SfAccordion/pull/1)
