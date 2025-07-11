@@ -42,4 +42,4 @@ The [SfAccordion](https://help.syncfusion.com/maui/accordion/getting-started) co
 
 <img src="image.png" width="400">
 
- Download the complete sample from [GitHub](https://github.com/SyncfusionExamples/How-to-customize-the-header-icon-in-.NET-MAUI-SfAccordion/pull/1)
+ Download the complete sample from [GitHub](https://github.com/SyncfusionExamples/How-to-customize-the-header-icon-in-.NET-MAUI-SfAccordion)
